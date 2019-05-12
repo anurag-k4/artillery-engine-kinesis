@@ -4,6 +4,10 @@
     <em>Load test AWS Kinesis with <a href="https://artillery.io">Artillery.io</a></em>
 </p>
 
+<p align="center">
+    <a href="https://snyk.io/test/github/anurag-k4/artillery-engine-kinesis?targetFile=package.json"><img src="https://snyk.io/test/github/anurag-k4/artillery-engine-kinesis/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/anurag-k4/artillery-engine-kinesis?targetFile=package.json" style="max-width:100%;"></a>
+</p>
+
 ## Why?
 
 Load testing a Kinesis stream will help you answer question like _"have we provisioned enough shards to be able to handle expected volume?"_ and _"are our consumers able to handle the amount of messages that will be streamed via Kinesis?"_
